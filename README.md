@@ -1,8 +1,8 @@
-# POLYNEROMA
+# POLYLANORA
 
 **Advanced Analytics Platform for Polymarket**
 
-POLYNEROMA is a lightweight, PHP-native web application designed to deliver real-time market analytics, wallet intelligence, and ecosystem insights for Polymarket.  
+POLYLANORA is a lightweight, PHP-native web application designed to deliver real-time market analytics, wallet intelligence, and ecosystem insights for Polymarket.  
 It focuses on performance, clarity, and modular analytics views without relying on heavy backend frameworks.
 
 ---
@@ -47,7 +47,7 @@ It focuses on performance, clarity, and modular analytics views without relying 
 ## 📁 Project Structure
 
 ```bash
-polyneroma/
+POLYLANORA/
 │
 ├── index.php
 ├── Dashboard.php
@@ -91,7 +91,7 @@ http://localhost:8000/index.php
 
 ```php
 <?php
-$pageTitle = "POLYNEROMA — Dashboard";
+$pageTitle = "POLYLANORA — Dashboard";
 ?>
 
 <!doctype html>
@@ -134,10 +134,10 @@ $pageTitle = "POLYNEROMA — Dashboard";
 ## 📄 License
 
 MIT License  
-© 2025 POLYNEROMA
+© 2026 POLYLANORA
 
 ---
 
 ## 🌐 Links
 
-- X (Twitter): https://x.com/polyneromaxyz
+- X (Twitter): https://x.com/POLYLANORAxyz
