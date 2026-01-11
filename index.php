@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>POLYNEROMA — Advanced Analytics</title>
+  <title>POLYLANORA — Advanced Analytics</title>
 
   <!-- Tailwind CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -21,7 +21,7 @@
   <script src="/_next/static/chunks/44afaca174b1c34d.js" id="_R_" async=""></script>
 
   <!-- ADDED (as requested) -->
-  <script>self.__next_f.push([1,"a:[\"$\",\"div\",null,{\"className\":\"flex justify-center lg:justify-end\",\"children\":[\"$\",\"img\",null,{\"src\":\"https://i.ibb.co.com/Y7246jJ9/Chat-GPT-Image-Dec-21-2025-10-54-20-AM-removebg-preview.png\",\"alt\":\"POLYNEROMA Logo\",\"className\":\"w-full max-w-[520px] sm:max-w-[600px] md:max-w-[680px] lg:max-w-[720px] h-auto object-contain\",\"loading\":\"eager\",\"decoding\":\"async\"}]}]\n"])</script>
+  <script>self.__next_f.push([1,"a:[\"$\",\"div\",null,{\"className\":\"flex justify-center lg:justify-end\",\"children\":[\"$\",\"img\",null,{\"src\":\"https://i.ibb.co.com/Y7246jJ9/Chat-GPT-Image-Dec-21-2025-10-54-20-AM-removebg-preview.png\",\"alt\":\"POLYLANORA Logo\",\"className\":\"w-full max-w-[520px] sm:max-w-[600px] md:max-w-[680px] lg:max-w-[720px] h-auto object-contain\",\"loading\":\"eager\",\"decoding\":\"async\"}]}]\n"])</script>
 
   <!-- ADDED (as requested) -->
   <script>self.__next_f.push([1,"b:[\"$\",\"div\",null,{\"className\":\"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-16 md:mt-24\",\"children\":[[\"$\",\"div\",\"Dashboard\",{\"data-slot\":\"card\",\"className\":\"bg-card/60 backdrop-blur-md text-card-foreground flex flex-col rounded-xl border border-white/5 shadow-sm transition-all duration-300 ease-out hover:border-[#3b82f6]/30 hover:shadow-[0_0_20px_rgba(59,130,246,0.15)] w-full gap-6 py-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"pointer-events-none absolute inset-x-0 top-0 h-px bg-linear-to-r from-transparent via-[#3b82f6]/40 to-transparent opacity-0 transition-opacity duration-500\"}],[[\"$\",\"div\",null,{\"data-slot\":\"card-header\",\"className\":\"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6\",\"children\":[\"$\",\"div\",null,{\"data-slot\":\"card-title\",\"className\":\"font-semibold flex items-center gap-4 text-xl md:text-2xl [\u0026_svg]:text-[#3b82f6]\",\"children\":[[\"$\",\"svg\",null,{\"ref\":\"$undefined\",\"xmlns\":\"http://www.w3.org/2000/svg\",\"width\":24,\"height\":24,\"viewBox\":\"0 0 24 24\",\"fill\":\"none\",\"stroke\":\"currentColor\",\"strokeWidth\":2,\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"className\":\"lucide lucide-layout-dashboard p-2 rounded-xl bg-white/5 border border-white/5 text-muted-foreground h-10 w-10\",\"aria-hidden\":\"true\",\"children\":[[\"$\",\"rect\",\"10lvy0\",{\"width\":\"7\",\"height\":\"9\",\"x\":\"3\",\"y\":\"3\",\"rx\":\"1\"}],[\"$\",\"rect\",\"16une8\",{\"width\":\"7\",\"height\":\"5\",\"x\":\"14\",\"y\":\"3\",\"rx\":\"1\"}],[\"$\",\"rect\",\"1hutg5\",{\"width\":\"7\",\"height\":\"9\",\"x\":\"14\",\"y\":\"12\",\"rx\":\"1\"}],[\"$\",\"rect\",\"ldoo1y\",{\"width\":\"7\",\"height\":\"5\",\"x\":\"3\",\"y\":\"16\",\"rx\":\"1\"}],\"$undefined\"]}],\" \",\"Dashboard\"]}]}],[\"$\",\"div\",null,{\"data-slot\":\"card-content\",\"className\":\"px-6\",\"children\":[\"$\",\"div\",null,{\"data-slot\":\"card-description\",\"className\":\"text-muted-foreground text-sm\",\"children\":\"Get a full view of the Polymarket ecosystem with live metrics for volume, traders, markets, and open interest. Track activity in real time and analyze growth in one dashboard. More detailed volume insights are coming soon.\"}]}],[\"$\",\"div\",null,{\"data-slot\":\"card-footer\",\"className\":\"flex items-center px-6 [.border-t]:pt-6 mt-auto\",\"children\":[\"$\",\"$L8\",null,{\"href\":\"/Dashboard.php\",\"className\":\"group flex items-center text-muted-foreground hover:text-foreground transition-colors text-sm md:text-base\",\"children\":[\"Open View\",[\"$\",\"svg\",null,{\"ref\":\"$undefined\",\"xmlns\":\"http://www.w3.org/2000/svg\",\"width\":24,\"height\":24,\"viewBox\":\"0 0 24 24\",\"fill\":\"none\",\"stroke\":\"currentColor\",\"strokeWidth\":2,\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"className\":\"lucide lucide-arrow-right h-4 w-4 ml-2 group-hover:translate-x-1 transition-transform\",\"aria-hidden\":\"true\",\"children\":[[\"$\",\"path\",\"1ays0h\",{\"d\":\"M5 12h14\"}],[\"$\",\"path\",\"xquz4c\",{\"d\":\"m12 5 7 7-7 7\"}],\"$undefined\"]}]]}]}]]}]}]]]}],[\"$\",\"div\",\"Portfolio\",{\"data-slot\":\"card\",\"className\":\"bg-card/60 backdrop-blur-md text-card-foreground flex flex-col rounded-xl border border-white/5 shadow-sm transition-all duration-300 ease-out hover:border-[#3b82f6]/30 hover:shadow-[0_0_20px_rgba(59,130,246,0.15)] w-full gap-6 py-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"pointer-events-none absolute inset-x-0 top-0 h-px bg-linear-to-r from-transparent via-[#3b82f6]/40 to-transparent opacity-0 transition-opacity duration-500\"}],[[\"$\",\"div\",null,{\"data-slot\":\"card-header\",\"className\":\"@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-2 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6\",\"children\":[\"$\",\"div\",null,{\"data-slot\":\"card-title\",\"className\":\"font-semibold flex items-center gap-4 text-xl md:text-2xl [\u0026_svg]:text-[#3b82f6]\",\"children\":[[\"$\",\"svg\",null,{\"ref\":\"$undefined\",\"xmlns\":\"http://www.w3.org/2000/svg\",\"width\":24,\"height\":24,\"viewBox\":\"0 0 24 24\",\"fill\":\"none\",\"stroke\":\"currentColor\",\"strokeWidth\":2,\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"className\":\"lucide lucide-wallet p-2 rounded-xl bg-white/5 border border-white/5 text-muted-foreground h-10 w-10\",\"aria-hidden\":\"true\",\"children\":[\"$L11\",\"$L12\",\"$undefined\"]}],\" \",\"Portfolio\"]}]}],\"$L13\",\"$L14\"]]}],\"$L15\",\"$L16\",\"$L17\",\"$L18\"]}]\n"])</script>
@@ -132,11 +132,11 @@
     <div class="mx-auto w-full max-w-6xl flex-1 flex flex-col">
       <header class="pt-4">
         <div class="flex justify-between items-center py-4 px-4 md:px-0">
-          <a href="/" aria-label="POLYNEROMA Home" class="flex items-center gap-2">
+          <a href="/" aria-label="POLYLANORA Home" class="flex items-center gap-2">
             <!-- simple inline logo -->
             <img
               src="https://i.ibb.co.com/Y7246jJ9/Chat-GPT-Image-Dec-21-2025-10-54-20-AM-removebg-preview.png"
-              alt="POLYNEROMA Logo"
+              alt="POLYLANORA Logo"
               class="w-16 h-16 sm:w-20 sm:h-20 object-contain"
               loading="eager"
               decoding="async"
@@ -222,7 +222,7 @@
           </nav>
 
           <div class="flex items-center gap-4">
-            <a class="block" href="https://x.com/polyneromaxyz" aria-label="X">
+            <a class="block" href="https://x.com/POLYLANORAxyz" aria-label="X">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="w-7 h-7" aria-hidden="true">
                 <path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z" fill="currentColor"></path>
               </svg>
@@ -244,7 +244,7 @@
             <div class="space-y-6 md:space-y-8 z-10 animate-in slide-in-from-bottom-8 fade-in duration-1000">
               <div class="inline-flex items-center gap-2 px-3 md:px-4 py-1 md:py-1.5 rounded-xl bg-[#3b82f6]/10 border border-[#3b82f6]/20 backdrop-blur-md">
                 <span class="w-1.5 h-1.5 bg-[#3b82f6] rounded-xl shadow-[0_0_10px_rgba(59,130,246,0.8)] animate-pulse"></span>
-                <span class="text-xs font-semibold text-[#3b82f6] tracking-wide uppercase">POLYNEROMA V1.0</span>
+                <span class="text-xs font-semibold text-[#3b82f6] tracking-wide uppercase">POLYLANORA V1.0</span>
               </div>
 
               <div class="space-y-3 md:space-y-4">
@@ -283,7 +283,7 @@
             <div class="flex justify-center lg:justify-end">
               <img
                 src="https://i.ibb.co.com/Y7246jJ9/Chat-GPT-Image-Dec-21-2025-10-54-20-AM-removebg-preview.png"
-                alt="POLYNEROMA Logo"
+                alt="POLYLANORA Logo"
                 class="w-full max-w-[520px] sm:max-w-[600px] md:max-w-[680px] lg:max-w-[720px] h-auto object-contain"
                 loading="eager"
                 decoding="async"
@@ -462,8 +462,8 @@
       <footer>
         <div class="flex flex-col md:flex-row justify-between items-center py-8 px-4 md:px-0 text-center md:text-left gap-4 md:gap-0">
           <p class="text-muted-foreground text-[14px]">
-            © 2025 POLYNEROMA. All rights reserved.
-            <span> Follow us on <a class="underline hover:text-[#3b82f6] transition-colors" href="https://x.com/polyneromaxyz">X</a>.</span>
+            © 2025 POLYLANORA. All rights reserved.
+            <span> Follow us on <a class="underline hover:text-[#3b82f6] transition-colors" href="https://x.com/POLYLANORAxyz">X</a>.</span>
           </p>
         </div>
       </footer>
@@ -471,3 +471,4 @@
   </div>
 </body>
 </html>
+
