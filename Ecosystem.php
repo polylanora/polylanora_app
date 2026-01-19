@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>POLYLANORA — Ecosystem</title>
+  <title>POLYNATERON — Ecosystem</title>
   <meta name="description" content="Discover verified tools, apps, and analytics for Polymarket. Projects only with the Polymarket Builders badge." />
 
   <!-- Tailwind CDN -->
@@ -108,14 +108,14 @@
         <div class="flex justify-between items-center py-4 px-4 md:px-0">
           <a href="/" class="flex items-center gap-3" aria-label="Go to Home">
             <img
-              alt="POLYLANORA Logo"
+              alt="POLYNATERON Logo"
               width="28"
               height="28"
               decoding="async"
               style="color:transparent"
               src="https://i.ibb.co.com/Y7246jJ9/Chat-GPT-Image-Dec-21-2025-10-54-20-AM-removebg-preview.png"
             />
-            <span class="hidden sm:block font-semibold tracking-wide">POLYLANORA</span>
+            <span class="hidden sm:block font-semibold tracking-wide">POLYNATERON</span>
           </a>
 
           <nav aria-label="Main" class="group/navigation-menu relative max-w-max flex-1 items-center justify-center hidden md:block">
@@ -199,9 +199,9 @@
           </nav>
 
           <div class="flex items-center gap-4">
-            <!-- X link (POLYLANORA) -->
+            <!-- X link (POLYNATERON) -->
             <a class="block text-muted-foreground hover:text-white transition-colors"
-               href="https://x.com/POLYLANORAxyz"
+               href="https://x.com/POLYNATERONxyz"
                target="_blank" rel="noopener noreferrer"
                aria-label="X">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
@@ -294,9 +294,9 @@
       <footer>
         <div class="flex flex-col md:flex-row justify-between items-center py-8 px-4 md:px-0 text-center md:text-left gap-4 md:gap-0">
           <p class="text-muted-foreground text-[14px]">
-            © 2025 POLYLANORA. All rights reserved.
+            © 2025 POLYNATERON. All rights reserved.
             <span> Follow us on
-              <a class="underline hover:text-[#3b82f6] transition-colors" href="https://x.com/POLYLANORAxyz" target="_blank" rel="noopener noreferrer">X</a>.
+              <a class="underline hover:text-[#3b82f6] transition-colors" href="https://x.com/POLYNATERONxyz" target="_blank" rel="noopener noreferrer">X</a>.
             </span>
           </p>
         </div>
@@ -313,7 +313,7 @@
       <div class="flex items-center justify-between p-4 border-b border-white/10">
         <div class="flex items-center gap-2">
           <img
-            alt="POLYLANORA Logo"
+            alt="POLYNATERON Logo"
             width="24"
             height="24"
             decoding="async"
@@ -341,7 +341,7 @@
 
         <hr class="border-white/10 my-3" />
         <a class="block rounded-md px-3 py-2 text-sm text-muted-foreground hover:bg-accent hover:text-accent-foreground"
-           href="https://x.com/POLYLANORAxyz" target="_blank" rel="noopener noreferrer">X</a>
+           href="https://x.com/POLYNATERONxyz" target="_blank" rel="noopener noreferrer">X</a>
       </div>
     </div>
   </div>
@@ -676,4 +676,5 @@
   </script>
 </body>
 </html>
+
 
