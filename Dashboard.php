@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>POLYLANORA — Overview</title>
-  <meta name="description" content="POLYLANORA — Polymarket-style overview dashboard (static HTML for cPanel)." />
+  <title>POLYNATERON — Overview</title>
+  <meta name="description" content="POLYNATERON — Polymarket-style overview dashboard (static HTML for cPanel)." />
   <link rel="icon" href="/favicon.ico" />
 
   <!-- Tailwind CDN -->
@@ -108,7 +108,7 @@
       <header class="pt-4">
         <div class="flex justify-between items-center py-4 px-4 md:px-0">
           <a href="/" class="flex items-center gap-2">
-            <img alt="POLYLANORA Logo" width="28" height="28" decoding="async" data-nimg="1" style="color:transparent" src="/logo.svg"
+            <img alt="POLYNATERON Logo" width="28" height="28" decoding="async" data-nimg="1" style="color:transparent" src="/logo.svg"
                  onerror="this.style.display='none'; document.getElementById('fallbackLogo').style.display='block';" />
             <svg id="fallbackLogo" style="display:none" width="28" height="28" viewBox="0 0 24 24" fill="none" aria-hidden="true">
               <path d="M12 2l8.5 5v10L12 22 3.5 17V7L12 2z" stroke="currentColor" stroke-width="1.6"/>
@@ -227,7 +227,7 @@
           </nav>
 
           <div class="flex items-center gap-4">
-            <a class="block" href="https://x.com/POLYLANORAxyz" target="_blank" rel="noreferrer">
+            <a class="block" href="https://x.com/POLYNATERONxyz" target="_blank" rel="noreferrer">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x lucide-X w-7 h-7" aria-hidden="true">
                 <path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z" stroke="none" fill="currentColor"></path>
               </svg>
@@ -249,7 +249,7 @@
       <main class="flex-1">
         <div class="container mx-auto px-4 md:px-0 max-w-7xl mt-8 md:mt-16 mb-8 md:mb-16">
 
-          <h1 class="md:text-3xl font-bold">POLYLANORA Overview</h1>
+          <h1 class="md:text-3xl font-bold">POLYNATERON Overview</h1>
 
           <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6 md:mb-8 gap-4 sm:gap-0">
             <p class="text-sm md:text-base text-muted-foreground">Track activity in real time and analyze growth.</p>
@@ -543,8 +543,8 @@
       <footer>
         <div class="flex flex-col md:flex-row justify-between items-center py-8 px-4 md:px-0 text-center md:text-left gap-4 md:gap-0">
           <p class="text-muted-foreground text-[14px]">
-            © 2025 POLYLANORA. All rights reserved.
-            <span> Follow us on <a class="underline hover:text-[#3b82f6] transition-colors" href="https://x.com/POLYLANORAxyz" target="_blank" rel="noreferrer">X</a>.</span>
+            © 2025 POLYNATERON. All rights reserved.
+            <span> Follow us on <a class="underline hover:text-[#3b82f6] transition-colors" href="https://x.com/POLYNATERONxyz" target="_blank" rel="noreferrer">X</a>.</span>
           </p>
         </div>
       </footer>
@@ -676,4 +676,5 @@
   <next-route-announcer style="position: absolute;"></next-route-announcer>
 </body>
 </html>
+
 
