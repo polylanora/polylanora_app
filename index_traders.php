@@ -15,7 +15,7 @@ $context = stream_context_create([
         "method" => "GET",
         "header" => [
             "Accept: application/json",
-            "User-Agent: POLYLANORA/1.0"
+            "User-Agent: POLYNATERON/1.0"
         ],
         "timeout" => 20
     ]
@@ -63,4 +63,5 @@ file_put_contents($file, json_encode($index, JSON_PRETTY_PRINT));
 
 echo "DONE\n";
 echo "Total traders indexed: " . count($index) . "\n";
+
 
